@@ -14,8 +14,8 @@ Tema proyek ini berkaitan erat dengan pariwisata. Saya menyebut proyek web ini `
 | Bagian | Deskripsi |
 | --- | --- |
 | Fitur | • Masuk<br>• Buat<br>• Baca<br>• Ubah<br>• Hapus<br>• Paginasi |
-| Kerangka kerja | • Bootstrap 5<br>• Laravel 8<br>• VueJS |
-| Peralatan | • Visual Studio Code<br>• Xampp<br>• NodeJS |
+| Kerangka kerja | • Bootstrap 5<br>• Laravel 8<br>• Vue.js |
+| Peralatan | • Visual Studio Code<br>• Xampp<br>• Node.js |
 
 <br><br>
 
