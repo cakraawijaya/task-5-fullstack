@@ -6,7 +6,7 @@
 
 # task-5-fullstack
 <strong>Virtual Internship Experience (Investree) - Fullstack - Devan Cakra Mudra Wijaya</strong><br><br>
-Tema proyek ini berkaitan erat dengan pariwisata. Saya menyebut proyek web ini ``` MyTour ```, fitur yang diunggulkan adalah bercerita. Menurut saya ini menarik, karena pengguna bisa berbagi momen perjalanan mereka yang berharga layaknya media sosial. Yang membedakan web ini dengan yang lain adalah mengutamakan kenyamanan pengguna dalam memposting foto, karena aturannya yaitu pengguna lain tidak bisa berkomentar atau hanya bisa melihat saja.
+``` MyTour ``` adalah sebuah web yang saya kembangkan selama mengikuti program magang virtual berbasis proyek melalui platform ``` Rakamin Academy ```. Proyek ini merupakan inisiatif perancangan solusi internal untuk mendukung ``` employee well-being ``` di lingkungan kerja ``` Investree ```. Aplikasi ini berfokus pada penyediaan ruang berbagi cerita ringan seputar pengalaman perjalanan, seperti liburan akhir pekan, kunjungan kerja, maupun aktivitas lainnya. Tujuannya adalah untuk membantu menjaga keseimbangan antara kehidupan pribadi dan profesional karyawan. ``` MyTour ``` menghadirkan fitur utama ``` story sharing ``` yang memungkinkan pengguna membagikan momen perjalanan dalam bentuk foto dan narasi. Berbeda dengan platform media sosial pada umumnya, ``` MyTour ``` secara sengaja membatasi interaksi dengan tidak menyediakan fitur komentar. Pendekatan ini dirancang untuk meminimalkan tekanan sosial serta menciptakan pengalaman berbagi yang lebih nyaman, sederhana, dan bebas distraksi bagi pengguna.
 
 <br><br>
 
